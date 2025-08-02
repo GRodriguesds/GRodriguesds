@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá, eu sou Gabriel Rodrigues!
 
-<!--
-**GRodriguesds/GRodriguesds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados em formação, apaixonado por transformar dados em insights.
 
-Here are some ideas to get you started:
+💡 Tenho experiência com:
+- 📊 **Power BI**, **Excel** e **SQL**
+- 🐍 Atualmente estou **aprendendo Python**, com foco em bibliotecas como Pandas, NumPy e Matplotlib
+- 📚 Estatística aplicada à análise de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou em constante aprendizado e desenvolvendo projetos próprios para resolver problemas reais com dados.
+
+📈 Meu objetivo é ajudar empresas a tomarem decisões mais inteligentes através da análise de dados.
+
+📫 Você pode me encontrar em:
+- [LinkedIn](https://linkedin.com/in/rodrigues137g)
+- Email: rodrigues137g@gmail.com
